@@ -54,5 +54,5 @@ problem-solving exercises.
 
 Acknowledgments
 
-I would like to express our gratitude to the contributors, mentors, and the open-source community for their valuable contributions and support in creating
+I would like to express our gratitude to the mentor and the open-source community for their valuable contributions and support in creating
 this learning experience.
