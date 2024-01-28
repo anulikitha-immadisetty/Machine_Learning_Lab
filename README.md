@@ -1,10 +1,10 @@
-Machine Learning Lab (4 Month Progress)
+__Machine Learning Lab (4 Month Progress)__
 
-Overview
+__Overview__
 
 Welcome to the Machine Learning Lab, a comprehensive learning journey spanning four months focused on the fundamentals of machine learning from beginner to advanced.
 
-Table of Contents
+__Table of Contents__
 
 1. Introduction
 2. Topics Covered
@@ -19,8 +19,8 @@ advanced machine learning concepts.
 
 Topics Covered
 
-1. Introduction to NumPy
-3. Introduction to Pandas (Series and Dataframes)
+**1. Introduction to NumPy**
+**2. Introduction to Pandas (Series and Dataframes)**
 
 Projects
 
