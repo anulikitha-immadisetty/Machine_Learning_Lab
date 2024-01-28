@@ -20,6 +20,7 @@ advanced machine learning concepts.
 Topics Covered
 
 **1. Introduction to NumPy**
+
 **2. Introduction to Pandas (Series and Dataframes)**
 
 Projects
