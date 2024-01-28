@@ -37,11 +37,10 @@ Curriculum Highlights (Month1-Month4)
 Prerequisites
 
 Before starting the Machine Learning Lab should have a basic understanding of:
-Mathematics,Machine Learning Fundamentals,Data Handling,Data Splitting,Evaluation Metrics,Visualization,Machine Learning Libraries,
-Understanding Algorithms.
 Programming Skills:
 Strong proficiency in Python, is essential.
 Understanding of object-oriented programming principles can be beneficial.
+Mathematics,Machine Learning Fundamentals,Data Handling,Data Splitting,Evaluation Metrics,Visualization,Machine Learning Libraries,Understanding Algorithms.
 
 Topics Covered
 
