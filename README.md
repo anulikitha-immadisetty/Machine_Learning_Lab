@@ -37,52 +37,11 @@ Curriculum Highlights (Month1-Month4)
 Prerequisites
 
 Before starting the Machine Learning Lab should have a basic understanding of:
-Statistics:
-Basic statistical concepts, including mean, median, mode, standard deviation, and probability distributions.
-Understanding of probability and its applications in machine learning.
-
-Mathematics:
-Linear algebra: Matrices, vectors, eigenvalues, and eigenvectors are fundamental for various machine learning algorithms.
-Calculus: Understanding derivatives and integrals, especially in the context of optimization algorithms used in machine learning.
-
-Machine Learning Fundamentals:
-Supervised learning: Understand the concepts of training data, testing data, features, labels, and the notion of learning from labeled examples.
-Unsupervised learning: Clustering, dimensionality reduction, and the concept of learning from unlabeled data.
-
-Optimization:
-Basics of optimization algorithms used in machine learning, such as gradient descent.
-
+Mathematics,Machine Learning Fundamentals,Data Handling,Data Splitting,Evaluation Metrics,Visualization,Machine Learning Libraries,
+Understanding Algorithms.
 Programming Skills:
 Strong proficiency in Python, is essential.
 Understanding of object-oriented programming principles can be beneficial.
-
-Data Handling:
-Familiarity with handling datasets, cleaning data, and preprocessing steps.
-Awareness of data types, missing data, and data imputation techniques.
-
-Data Splitting:
-Know how to split data into training and testing sets for model evaluation.
-
-Evaluation Metrics:
-Understand common metrics for evaluating machine learning models, such as accuracy, precision, recall, F1 score, and ROC-AUC.
-
-Feature Engineering:
-Knowledge of techniques to transform and create features that can enhance model performance.
-
-Visualization:
-Proficiency in using visualization tools like Matplotlib and Seaborn to analyze data and model results.
-
-Machine Learning Libraries:
-Familiarity with popular machine learning libraries, such as Scikit-learn, TensorFlow, and PyTorch.
-
-Understanding Algorithms:
-Conceptual understanding of various machine learning algorithms, including linear regression, decision trees, k-nearest neighbors, support vector machines, clustering algorithms, etc.
-
-Model Evaluation:
-Knowledge of cross-validation techniques and hyperparameter tuning.
-
-Ethical Considerations:
-Awareness of ethical considerations and potential biases in machine learning models.
 
 Topics Covered
 
