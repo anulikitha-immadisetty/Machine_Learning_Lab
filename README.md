@@ -1,9 +1,11 @@
 Machine Learning Lab (4 Month Progress)
 
 Overview
+
 Welcome to the Machine Learning Lab, a comprehensive learning journey spanning four months focused on the fundamentals of machine learning from beginner to advanced.
 
 Table of Contents
+
 1. Introduction
 2. Curriculum Highlights
 3. Prerequisites
@@ -12,11 +14,13 @@ Table of Contents
 6. Acknowledgments
 
 Introduction
+
 The Machine Learning Lab is designed to provide participants with hands-on experience and practical skills in machine learning. 
 Over the course of four months, learners have delved into essential Python libraries for data manipulation and analysis, laying the groundwork for
 advanced machine learning concepts.
 
 Curriculum Highlights (Month1-Month4)
+
 1. Basic exercises on Python Machine Learning Packages such as Numpy, Pandas and Matplotlib
 2. Python exercise on Feature Engineering, Data Visualisation
 3. Programs on Covariance, Correlation, Covariance Matrix and Correlation Matrix
@@ -31,6 +35,7 @@ Curriculum Highlights (Month1-Month4)
 12. Programs to implement different Clustering algorithms
 
 Prerequisites
+
 Before starting the Machine Learning Lab should have a basic understanding of:
 Statistics:
 Basic statistical concepts, including mean, median, mode, standard deviation, and probability distributions.
@@ -80,13 +85,16 @@ Ethical Considerations:
 Awareness of ethical considerations and potential biases in machine learning models.
 
 Topics Covered
+
 1. Introduction to NumPy
 2. Introduction to Pandas (Series and Dataframes)
 
 Projects
+
 Iam encouraged to apply knowledge through hands-on projects, reinforcing concepts learned throughout the lab. These projects cover real-world scenarios and 
 problem-solving exercises.
 
 Acknowledgments
+
 I would like to express our gratitude to the contributors, mentors, and the open-source community for their valuable contributions and support in creating
 this learning experience.
