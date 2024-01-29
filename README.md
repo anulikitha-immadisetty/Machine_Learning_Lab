@@ -1,4 +1,4 @@
-_Machine Learning Lab (4 Month Progress)_
+__Machine Learning Lab (4 Month Progress)__
 
 __Overview__
 
