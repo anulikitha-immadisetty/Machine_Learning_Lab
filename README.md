@@ -14,7 +14,7 @@ __Table of Contents__
 **Introduction**
 
 The Machine Learning Lab is designed to provide participants with hands-on experience and practical skills in machine learning. 
-Over the course of four months, learners have delved into essential Python libraries for data manipulation and analysis, laying the groundwork for
+Over the course of four months, delved into essential Python libraries for data manipulation and analysis, laying the groundwork for
 advanced machine learning concepts.
 
 **Topics Covered**
