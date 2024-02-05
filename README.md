@@ -8,8 +8,7 @@ __Table of Contents__
 
 1. Introduction
 2. Topics Covered
-3. Projects
-4. Acknowledgments
+3. Acknowledgments
 
 **Introduction**
 
@@ -24,11 +23,6 @@ advanced machine learning concepts.
 **2. Introduction to Pandas (Series and Dataframes)**
 
 **3. Introduction to Matplotlib**
-
-**Projects**
-
-I am encouraged to apply knowledge through hands-on projects, reinforcing concepts learned throughout the lab. These projects cover real-world scenarios and 
-problem-solving exercises.
 
 **Acknowledgments**
 
