@@ -24,6 +24,13 @@ advanced machine learning concepts.
 
 **3. Introduction to Matplotlib**
 
+**4. Handle the missing data, 
+     Handle the categorical data by using one hot encoding,
+     Feature scaling techniques such as min-max normalization, standarization and z-score,
+     Creating a new feature representing the average tip percentage for each dining party size,
+     Creating a new feature based on total bill and tips if total bill is greater than 10$ and tips is greater.
+     All these questions are solved by using tips.csv (dataset file)**
+
 **Acknowledgments**
 
 I would like to express my gratitude to the mentor and the open-source community for their valuable contributions and support in creating
