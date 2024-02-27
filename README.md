@@ -32,6 +32,7 @@ advanced machine learning concepts.
 **4. Simple Linear Regression, 
      2nd Question solved by using housing.csv(dataset file)**
 
+**5. Decision Tree Classification**
 **Acknowledgments**
 
 I would like to express my gratitude to the mentor and the open-source community for their valuable contributions and support in creating
