@@ -1,4 +1,4 @@
-# Machine Learning Lab (4 Months Progress)
+# Machine Learning Lab 
 
 __Overview__
 
@@ -18,21 +18,28 @@ advanced machine learning concepts.
 
 **Topics Covered**
 
-**1. Introduction to NumPy, Introduction to Pandas (Series and Dataframes)**
+**1. Introduction to NumPy** 
 
-**2. Introduction to Matplotlib**
+**2. Introduction to Pandas (Series and Dataframes)**
 
-**3. (a)Handle the missing data with the appropriate techniques. 
-     (b)Handle the categorical data by using one hot encoding.
-     (c)Feature scaling techniques such as min-max normalization, standarization and z-score.
-     (d)Creating a new feature representing the average tip percentage for each dining party size.
-     (e)Creating a new feature based on total bill and tips if total bill is greater than 10$ and tips is greater.
-     All these questions are solved by using tips.csv (dataset file)**
+**3. Introduction to Matplotlib**
 
-**4. Simple Linear Regression, 
-     2nd Question solved by using housing.csv(dataset file)**
+**4. Data Handling**
 
-**5. Decision Tree Classification**
+**5. Simple Linear Regression**
+
+**6. Decision Tree Classification**
+
+**7. Feature Engineering**
+
+**8. Distance & Distance Matrix**
+
+**9. Principal Component Analysis**
+
+**10. Naive Baye's Classification**
+
+**11. Support Vector Machine**
+
 **Acknowledgments**
 
 I would like to express my gratitude to the mentor and the open-source community for their valuable contributions and support in creating
