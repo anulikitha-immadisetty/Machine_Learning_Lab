@@ -18,7 +18,7 @@ advanced machine learning concepts.
 
 **Topics Covered**
 
-**1. Introduction to NumPy** 
+**1. Introduction to NumPy** (#Lab01_AnuLikithaImmadisetty_AP21110010963.ipynb)
 
 **2. Introduction to Pandas (Series and Dataframes)**
 
