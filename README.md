@@ -17,7 +17,18 @@ Over the course of four months, delved into essential Python libraries for data 
 advanced machine learning concepts.
 
 **Topics Covered**
-
+**topics/
+    ├── 01-introduction-to-numpy.md
+    ├── 02-introduction-to-pandas.md
+    ├── 03-introduction-to-matplotlib.md
+    ├── 04-data-handling.md
+    ├── 05-simple-linear-regression.md
+    ├── 06-decision-tree-classification.md
+    ├── 07-feature-engineering.md
+    ├── 08-distance-distance-matrix.md
+    ├── 09-principal-component-analysis.md
+    ├── 10-naive-bayes-classification.md
+    ├── 11-support-vector-machine.md**
 **1. Introduction to NumPy** 
 
 **2. Introduction to Pandas (Series and Dataframes)**
